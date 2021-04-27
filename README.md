@@ -29,9 +29,8 @@
 ## 🚀 Tecnologias
 
 <p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
-<img src="./images-readme/react.png" style="max-width:7%;" align="center">
 
-- [ReactJS](https://reactjs.org/) <img src="./images-readme/react.png" style="max-width:7%;" align="center"> 
+- [ReactJS](https://reactjs.org/) <img src="./images-readme/react.png" style="max-width:100;" align="center"> 
 - [NextJS](https://nextjs.org/) <img src="./images-readme/nextJS.png" style="max-width:8%;" align="center"> 
 - [SASS](https://sass-lang.com/install) <img src="./images-readme/sass.png" style="max-width:6.5%;" align="center">
 - [Typescript](https://www.typescriptlang.org/) <img src="./images-readme/TypescriptJS.png" style="max-width:5%;" align="center">  
