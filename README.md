@@ -30,7 +30,7 @@
 
 <p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
-- [ReactJS](https://reactjs.org/) <img src="https://github.com/gabriel-elesbao/podcastr-NLW5/blob/master/images-readme/react.png" width="48" align="center"> 
+- [ReactJS](https://reactjs.org/) <img src="https://github.com/gabriel-elesbao/podcastr-NLW5/blob/master/images-readme/react.png" width="42" align="center"> 
 - [NextJS](https://nextjs.org/) <img src="./images-readme/nextJS.png" width="6%" align="center"> 
 - [SASS](https://sass-lang.com/install) <img src="./images-readme/sass.png" width="5%" align="center">
 - [Typescript](https://www.typescriptlang.org/) <img src="./images-readme/TypescriptJS.png" width="3%" align="center">  
